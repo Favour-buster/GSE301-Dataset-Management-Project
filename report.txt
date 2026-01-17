@@ -1,0 +1,8 @@
+DATASET ANALYSIS REPORT
+------------------------
+Total: 633.0
+Average: 79.12
+Minimum: 60.0
+Maximum: 94.0
+Performance: High Performance
+Unique Categories: 5
